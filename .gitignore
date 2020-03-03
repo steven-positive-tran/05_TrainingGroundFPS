@@ -14,7 +14,11 @@ Saved
 *.xcworkspace
 
 ## NO BIG FILES 
-Content/FirstPerson
-Content/FirstPersonCPP
-Content/Geometry
-Content/StarterContent
+Content/FirstPerson/*
+Content/FirstPersonCPP/*
+Content/Geometry/*
+Content/StarterContent/*
+Content/Mannequin/*
+Content/ThirdPerson/*
+Content/ThirdPersonCPP/*
+
